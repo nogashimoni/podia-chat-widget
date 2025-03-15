@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "provider_name": "Chat Widget",
+  "provider_url": "https://nogashimoni.github.io/podia-chat-widget/",
+  "title": "Interactive Chat Widget",
+  "description": "A customizable chat widget for customer support",
+  "html": "<iframe src=\"https://nogashimoni.github.io/podia-chat-widget/\" width=\"100%\" height=\"500\" frameborder=\"0\" allowtransparency=\"true\"></iframe>",
+  "width": 300,
+  "height": 500
+}
